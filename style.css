@@ -34,7 +34,7 @@ body{
 
 .text{
   margin-top: 55px;
-  padding: 7px ;
+  padding: 7px;
 }
 
 .bf{
@@ -76,7 +76,7 @@ body{
 }
 
 @media (max-width:768px) {
-  .item{
+  .item{ 
     width: auto;
   }
 }
